@@ -1,0 +1,97 @@
+body {
+background-image:url('https://i.pinimg.com/474x/44/70/31/44703196d3f8e23837b1a5c35f49db5e.jpg');
+width:auto;
+height:auto;
+background-repeat:repeat;
+background-color:black;
+color:white;
+font-family:arial, helvetica, sans-serif;
+}
+.title { 
+border-bottom:2px solid white;
+padding-bottom:2px;
+border-top:2px solid white;
+padding-top:2px;
+text-align:center;
+width:20vh;
+margin:auto;
+font-size:5vh;
+}
+.buttons {
+background-color:transparent;
+color:white;
+font-size:2.6vh;
+border:1px solid transparent;
+max-width:auto;
+min-width:14vmin;
+height:9vmin;
+}
+.buttons:hover {
+background-color:white;
+color:black;
+border:1px solid white;
+transition-duration:0.6s;
+}
+.buttons2 {
+color:white;
+background-color:transparent;
+font-size:4vmin;
+border:2px solid white;
+width:55%;
+height:12vmin;
+}
+.buttons2:hover {
+color:black;
+background-color:white;
+border:2px solid white;
+transition-duration:0.6s;
+}
+.lastdiv {
+background-color:white;
+color:black;
+text-align:center;
+}
+.footer_buttons {
+background-color:white;
+color:black;
+border:1px solid white;
+border-radius:5px;
+width:30px;
+height:25px;
+font-size:20px;
+transition-duration:0.6s;
+}
+.footer_buttons:hover {
+background-color:black;
+color:white;
+border:1px solid black;
+}
+.contact_about {
+background-color:transparent;
+color:black;
+border:1px solid transparent;
+font-size:17px;
+transition-duration:0.1s;
+text-decoration:overline;
+}
+.contact_about:hover {
+background-color:transparent;
+color:green;
+border:1px solid transparent;
+}
+.like_button {
+background-color:transparent;
+color:black;
+border:1px solid transparent;
+font-size:20px;
+text-align:center;
+width:30px;
+height:25px;
+transition-duration:0.1;
+margin:;
+}
+.like_button:hover {
+background-color:transparent;
+color:red;
+border:1px solid transparent;
+}
